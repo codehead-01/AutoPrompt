@@ -3,7 +3,7 @@ schedule==1.2.1
 pandas==1.5.3
 tqdm==4.66.1
 prodict==0.8.18
-langchain==0.2.7
+langchain==0.2.9
 openai==1.35.10
 tiktoken==0.7.0
 easydict==1.11
